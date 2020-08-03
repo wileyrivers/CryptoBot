@@ -11,4 +11,6 @@ When the market price goes above the bot's buy price, the bot will set the set_s
 When the True Speed drops to half of the set_speed, the bot will trigger the sell.
 
 BUY MODE:
+WARNING THIS BOT WILL SPEND ALL YOUR ROBIN HOOD CASH. This bot is programmed to essentially have its' own RobinHood account, as it will always buy and sell using (almost)
+you max money. Use at your own risk.
 The bot will watch to see if the price is falling, and if it is it will let the price fall until it levels out, and attempt to buy before the price rises again. 
